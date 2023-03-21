@@ -3,7 +3,7 @@
 
 💻 I'm currently working on [FlareHTTP](https://github.com/RFlintstone/FlareHTTP)
 
-🔬 I’m currently learning Kubernetes
+🔬 I’m currently learning Kubernetes, planning to look into stuff like CMake and Apache Cassandra
 
 💡 I occasionaly participate in Hackathons
 
@@ -99,44 +99,3 @@
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 </details>
-
-
-
-
-
-<!-- 🔭 I’m currently working on a high accuracy color scanner which can be used with chemical sensors <br> -->
-<!-- 👯 I’m looking to collaborate on <br> -->
-<!-- 🤝 I’m looking for help with <br> -->
-<!-- 🌱 I’m currently learning Kubernetes <br> -->
-<!-- 💬 Ask me about <br> -->
-<!-- ⚡ Fun fact -->
-
-<!-- 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rflintstone&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rflintstone&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rflintstone&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
--->
-
-  ## 🔗 Links
-  [![Github](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/rflintstone)
-  [![Twitter](https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rubenflintstone)
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/RFlintstone) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!--
-**RFlintstone/RFlintstone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
