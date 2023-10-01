@@ -1,5 +1,5 @@
 # 👋 About Me
-👨🏻‍💻 I'm Ruben, a technical computer science student with a love for both web and software development and open-source projects. I enjoy coding in languages such as Javascript and C++, and have experience with Node.js. When I'm not busy with schoolwork, I love improving my current skills and exploring new technologies. 
+👨🏻‍💻 I'm Ruben, a computer science student with a love for both web and software development and open-source projects. I enjoy coding in languages such as Javascript and C++, and have experience with Node.js. When I'm not busy with schoolwork, I love improving my current skills and exploring new technologies. 
 
 💻 I'm currently working on [FlareHTTP](https://github.com/RFlintstone/FlareHTTP)
 
