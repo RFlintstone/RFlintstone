@@ -1,15 +1,15 @@
 # 👋 About Me
 👨🏻‍💻 I'm Ruben, a computer science student with a love for both web and software development and open-source projects. I enjoy coding in languages such as Java and C++, and have experience with Node.js. When I'm not busy with schoolwork, I love improving my current skills and exploring new technologies. 
 
-💻 I'm currently working on [FlareHTTP](https://github.com/RFlintstone/FlareHTTP)
+💻 I'm currently developing applications for my own kubernetes cluster.
 
-🔬 I’m currently learning Kubernetes, planning to look into stuff like CMake and Apache Cassandra
+🔬 I’m planning to look into stuff like CMake and Apache Cassandra
 
 💡 I occasionaly participate in Hackathons
 
 # 💻 Skills
 
-<details open>
+<details closed>
 <summary style="font-weight: bold">  
   
 ### Languages
@@ -26,7 +26,7 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 </details>
   
-<details open>
+<details closed>
 <summary style="font-weight: bold">
   
 ### SaaS
@@ -38,7 +38,7 @@
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
 </details>
   
-<details open>
+<details closed>
 <summary style="font-weight: bold">
   
 ### Frameworks, Platforms and Libraries
@@ -56,7 +56,7 @@
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 </details>
-<details open>
+<details closed>
 <summary style="font-weight: bold">
 
 ### Servers
@@ -65,7 +65,7 @@
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
 </details>
-<details open>
+<details closed>
 <summary style="font-weight: bold">
 
 ### Databases
@@ -75,7 +75,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 
 </details>
-<details open>
+<details closed>
 <summary style="font-weight: bold">
 
 ### Software
@@ -85,7 +85,7 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 
 
 </details>
-<details open>
+<details closed>
 <summary style="font-weight: bold">
 
 ### Other
